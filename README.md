@@ -1,4 +1,4 @@
-<div align="center"> <img src="banner.gif" width="100%" alt="hello, i'm laura" />
+<div align="center"> <img src="download.gif" width="100%" alt="hello, i'm laura" />
 <br><br>
 
 <h3>⋆˚✿˖° &nbsp; a b o u t &nbsp;&nbsp; m e &nbsp; °˖✿˚⋆</h3> <p> <b>❀ &nbsp; currently working on</b> <br> Full Stack Web Development intern at <b>Evologi</b> (Meolo), <br> now starting my second year at <b>ITS Digital Academy Mario Volpato</b> </p> <p> <b>❀ &nbsp; currently learning</b> <br> JavaScript, Node.js, RESTful APIs and the Model Context Protocol (MCP) </p> <p> <b>❀ &nbsp; fun fact</b> <br> I play the piano in my free time, and you'll also find me at the gym </p> <br>
