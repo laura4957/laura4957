@@ -1,5 +1,5 @@
 <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/22cabbd0-33ff-447e-899d-d064aa03836f" />
-##Hi there 👋
+Hi there 👋
 
 <!--
 **laura4957/laura4957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
