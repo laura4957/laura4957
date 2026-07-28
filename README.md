@@ -1,7 +1,7 @@
 <div align="center"> <img src="BANNER_URL" width="100%" alt="" />
 <br><br>
 
-⋆˚✿˖°   h e l l o ,   i ' m   l a u r a   °˖✿˚⋆
+⋆˚✿˖°   h e l l o ,   i ' m    l a u r a   °˖✿˚⋆
 . ݁₊ ⊹ . ݁˖ . ݁   full stack developer in the making   . ݁ . ˖݁ . ⊹ ₊݁ .
 
 </div> <br> <table align="center"> <tr> <td width="50%" valign="top"> <br>
